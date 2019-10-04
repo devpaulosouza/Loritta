@@ -1,5 +1,5 @@
 <p align="center">
-<img height="384" src="https://loritta.website/assets/img/loritta.png">
+<img height="384" src="https://loritta.website/assets/img/loritta.png?v2">
 <br>
 <a href="https://loritta.website"><img src="https://img.shields.io/badge/website-loritta-blue.svg"></a>
 <a href="https://perfectdreams.net/"><img src="https://perfectdreams.net/assets/img/perfectdreams_badge.png?v2"></a>
@@ -23,6 +23,10 @@
 <a href="https://circleci.com/gh/LorittaBot/Loritta"><img src="https://circleci.com/gh/LorittaBot/Loritta.svg?style=shield"></img></a>
 <a href="https://www.codacy.com/app/MrPowerGamerBR/Loritta?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LorittaBot/Loritta&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/9dab59af231f4d6e96fe6bab6abe93af"></a>
 <a href="https://github.com/LorittaBot/Loritta/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-AGPL%20v3-lightgray.svg"></a>
+</p>
+<p align="center">
+<a href="README_EN.md"><img src="https://img.shields.io/badge/🌐_Readme_📖-Read_In_English-03ebfc.svg"></a>
+<a href="README.md"><img src="https://img.shields.io/badge/🌐_Readme_📖-Leia_em_Português-03fc41.svg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/LorittaBot/Loritta/stargazers"><img src="https://img.shields.io/github/stars/LorittaBot/Loritta.svg?style=social&label=Stars"></a>
@@ -126,6 +130,12 @@ A Lori utiliza várias [dependências no código-fonte dela](https://github.com/
 | [JDA-NAS](https://github.com/PebbleTemplates/pebble) |  sedmelluq |
 | [JRakNet](https://github.com/JRakNet/JRakNet) | Whirvis |
 | [Kotson](https://github.com/SalomonBrys/Kotson) | SalomonBrys |
+
+## 💫 Agradecimentos especiais para...
+
+![YourKit-Logo](https://www.yourkit.com/images/yklogo.png)
+
+[YourKit](http://www.yourkit.com/), criadores do YourKit Java Profiler, suportam projetos open source de todos os tipos com o excelente profiler de aplicações [Java](https://www.yourkit.com/java/profiler/index.jsp) e [.NET](https://www.yourkit.com/.net/profiler/index.jsp). Nós agradecemos por darem uma licença open source para conseguir deixar a Lori mais incrível e maravilhosa para todos os nossos usuários!
 
 ## 📄 Licença
 
